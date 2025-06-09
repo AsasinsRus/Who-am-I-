@@ -1,0 +1,1 @@
+﻿{"inkVersion":20,"root":[[{"->":"main"},["done",{"#f":5,"#n":"g-0"}],null],"done",{"main":["^Раковина відсутня, але є дзеркало. ",{"#":"layout:left"},{"#":"fade:in"},"\n","^Ти уважно вдивляєшся. ",{"#":"layout:right"},"\n","^Відображення відсутнє.","\n","^:",{"#":"picture:Clear_mirror"},{"#":"layout:hideRight"},"\n",{"#":"fade:out"},"end",{"#f":1}],"#f":1}],"listDefs":{}}
