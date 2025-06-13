@@ -90,8 +90,8 @@ Derzeitige Schwerpunkte:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="pics/scene1.png" width="500"/> <img src="pics/scene2.png" width="500"/>
-  <img src="pics/scene3.png" width="500"/> <img src="pics/chooseOptions.png" width="500"/>
-  <img src="pics/outline.png" width="500"/>
+  <img src="pics/scene1.png" width="300"/> <img src="pics/scene2.png" width="300"/>
+  <img src="pics/scene3.png" width="300"/> <img src="pics/chooseOptions.png" width="300"/>
+  <img src="pics/outline.png" width="300"/>
 </p>
 
