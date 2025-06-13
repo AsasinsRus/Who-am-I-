@@ -88,4 +88,10 @@ Derzeitige Schwerpunkte:
 - Testgetriebene Entwicklung und modulare Projektstruktur
 
 ## 📸 Screenshots
-![Scene 1](pics/scene1.png)
+
+<p align="center">
+  <img src="pics/scene1.png" width="500"/> <img src="pics/scene2.png" width="500"/>
+  <img src="pics/scene3.png" width="500"/> <img src="pics/chooseOptions.png" width="500"/>
+  <img src="pics/outline.png" width="500"/>
+</p>
+
